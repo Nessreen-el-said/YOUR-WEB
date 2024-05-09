@@ -1,0 +1,654 @@
+.navbar{
+background-color: rgba(53, 129, 102, 0.726);
+}
+.navbar-brand{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 120px;
+}
+.navbar-nav a{
+    margin-left: 90px;
+}
+.d-grid{
+    margin-right: 50px;
+}
+/* sec1 */
+.card{
+    border: 0px;
+}
+.card img{
+    width: 1262px;
+    height: 500px;
+    margin-top: -1px; 
+}
+.card-title{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.card-text{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.card a{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+/* sec2 */
+.cardd{
+    background-color: rgba(53, 129, 102, 0.726);
+    height: 400px;
+    width: 1263px;
+    margin-top: -3px;
+    margin-bottom: 40px;
+}
+.cardd-title{
+    padding-top: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: xx-large;
+}
+.cardd-text{
+    padding-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: medium;
+}
+span {
+    display: inline-block;
+    width: 160px;
+    height: 120px;
+    margin: 6px;
+    background-color: #555;
+}
+.sp h6{
+    margin-top: 20px;
+}
+.sp i{
+    padding-top: 50px;
+}
+/* sec3 */
+.carrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 240px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.carrd img{
+    width: 300px;
+    height: 300px;    
+}
+.carrd h3{
+    margin-bottom: 30px;
+}
+.carrd p{
+    margin-bottom: 50px;
+}
+.carrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+}
+/*  sec part2 */
+.carrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 240px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.carrrd img{
+    width: 300px;
+    height: 300px;    
+}
+.carrrd h3{
+    margin-bottom: 40px;
+}
+.carrrd p{
+    margin-bottom: 50px;
+}
+.carrrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+}
+/* sec part 3 */
+.carrrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 240px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+.carrrrd img{
+    width: 300px;
+    height: 300px;    
+}.carrrd img{
+    width: 300px;
+    height: 300px;    
+}
+.carrrrd h3{
+    margin-bottom: 40px;
+}
+.carrrrd p{
+    margin-bottom: 50px;
+}
+.carrrrd h4{
+    margin-bottom: 50px;
+    color: orangered;    
+}
+/* media quire */
+@media(max-width:1030px){
+    /* nav */
+.navbar-brand{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 100px;
+}
+.navbar-nav a{
+    margin-left: 30px;
+}
+.d-grid{
+    margin-right: 100px;
+} 
+/* cards */
+.cardd{
+    background-color: rgba(53, 129, 102, 0.726);
+    height: 400px;
+    width: 1263px;
+    margin-top: -3px;
+    margin-bottom: 40px;
+    margin-left: -130px;
+}
+.carrd{
+    margin-left: 90px;
+}
+.carrrd{
+    margin-left: 90px;
+}
+.carrrrd{
+    margin-left: 90px;
+}
+}
+@media(max-width:900px){
+.card{
+    margin-left: -30px;
+}
+.card img{
+    width: 1200px;
+}
+.cardd{
+    background-color: rgba(53, 129, 102, 0.726);
+    height: 400px;
+    width: 1263px;
+    margin-top: -3px;
+    margin-bottom: 40px;
+    margin-left: -200px;
+}
+.carrd{
+    margin-left:20px;
+}
+.carrrd{
+    margin-left: 20px;
+}
+.carrrrd{
+    margin-left: 20px;
+}
+}
+@media(max-width:770px){
+    /* nav */
+.navbar-brand{
+     margin-left: 30px;
+}
+/* cards */
+.card{
+    margin-left: -30px;
+}
+.card img{
+    width: 1000px;
+}
+.cardd{
+    background-color: rgba(53, 129, 102, 0.726);
+    height: 400px;
+    width: 1263px;
+    margin-top: -3px;
+    margin-bottom: 40px;
+    margin-left: -270px;
+}
+/* card1 */
+.carrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 140px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.carrd img{
+    width: 400px;
+    height: 400px;  
+}
+.carrd h3{
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.carrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+    margin-left: 13px;
+}
+/*  sec part2 */
+.carrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 140px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.carrrd img{
+    width: 350px;
+    height: 350px;    
+    margin-top: 700px;
+    margin-left: 20px;
+}
+.carrrrd h3{
+    margin-bottom: 30px;
+    margin-left:10px;
+}
+.carrrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+    margin-left: 13px;
+}
+/* sec part 3 */
+.carrrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 140px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+.carrrrd img{
+    width: 400px;
+    height: 400px; 
+    margin-top: 700px;   
+}
+.carrrd h3{
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-top: 30px;
+    
+}
+.carrrrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrrrd h4{
+    margin-bottom: 50px;
+    color: orangered;   
+    margin-left: 13px; 
+}
+}
+@media(max-width:725px){
+/* cards */
+.card{
+    margin-left: -30px;
+}
+.card img{
+    width: 830px;
+}
+.card-title{
+    margin-top: 140px;
+    margin-left: 20px;
+}
+.card-text{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.card a{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+span {
+    display: inline-block;
+    width: 190px;
+    height: 120px;
+    margin: 6px;
+    background-color: #555;
+}  
+.cardd{
+    background-color: rgba(53, 129, 102, 0.726);
+    height: 550px;
+    width: 550px;
+    margin-top: -3px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+}
+/* card1 */
+.carrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 70px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.carrd img{
+    width: 400px;
+    height: 400px;  
+}
+.carrd h3{
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.carrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+    margin-left: 13px;
+}
+/*  sec part2 */
+.carrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 70px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.carrrd img{
+    width: 350px;
+    height: 350px;    
+    margin-top: 700px;
+    margin-left: 20px;
+}
+.carrrrd h3{
+    margin-bottom: 30px;
+    margin-left:10px;
+}
+.carrrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrrd h4{
+    margin-bottom: 30px;
+    color: orangered;
+    margin-left: 13px;
+}
+/* sec part 3 */
+.carrrrd{
+    width: 900px;
+    height:300px ;
+    margin-left: 70px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+.carrrrd img{
+    width: 400px;
+    height: 400px; 
+    margin-top: 700px;   
+}
+.carrrd h3{
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-top: 30px;
+    
+}
+.carrrrd p{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.carrrrd h4{
+    margin-bottom: 50px;
+    color: orangered;   
+    margin-left: 13px; 
+}
+}
+@media(max-width:500px){
+    /* cards */
+    .card{
+        margin-left: -30px;
+    }
+    .card img{
+        width: 830px;
+    }
+    .card-title{
+        margin-top: 140px;
+        margin-left: 20px;
+    }
+    .card-text{
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    .card a{
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    span {
+        display: inline-block;
+        width: 190px;
+        height: 120px;
+        margin: 6px;
+        background-color: #555;
+    }  
+    .cardd{
+        background-color: rgba(53, 129, 102, 0.726);
+        height: 550px;
+        width: 480px;
+        margin-top: -3px;
+        margin-bottom: 40px;
+        margin-left: 0px;
+    }
+    /* card1 */
+    .carrd{
+        width: 900px;
+        height:300px ;
+        margin-left: 30px;
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+    .carrd img{
+        width: 370px;
+        height: 370px;  
+        margin-left: 20px;
+    }
+    .carrd h3{
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+    .carrd p{
+        margin-bottom: 50px;
+        margin-left: 10px;
+    }
+    .carrd h4{
+        margin-bottom: 30px;
+        color: orangered;
+        margin-left: 13px;
+    }
+    /*  sec part2 */
+    .carrrd{
+        width: 900px;
+        height:300px ;
+        margin-left: 30px;
+        margin-top: 90px;
+        margin-bottom: 50px;
+    }
+    .carrrd img{
+        width: 350px;
+        height: 350px;    
+        margin-top: 700px;
+        margin-left: 20px;
+    }
+    .carrrrd h3{
+        margin-bottom: 30px;
+        margin-left:10px;
+    }
+    .carrrd p{
+        margin-bottom: 50px;
+        margin-left: 10px;
+    }
+    .carrrd h4{
+        margin-bottom: 30px;
+        color: orangered;
+        margin-left: 13px;
+    }
+    /* sec part 3 */
+    .carrrrd{
+        width: 900px;
+        height:300px ;
+        margin-left: 30px;
+        margin-top: 80px;
+        margin-bottom: 50px;
+        
+    }
+    .carrrrd img{
+        width: 350px;
+        height: 350px; 
+        margin-top: 700px;   
+        margin-left: 20px;
+    }
+    .carrrd h3{
+        margin-bottom: 40px;
+        margin-left: 10px;
+        margin-top: 30px;
+        
+    }
+    .carrrrd p{
+        margin-bottom: 50px;
+        margin-left: 10px;
+    }
+    .carrrrd h4{
+        margin-bottom: 50px;
+        color: orangered;   
+        margin-left: 13px; 
+    }
+    }
+    @media(max-width:415px){
+        /* cards */
+        .card{
+            margin-left: -30px;
+        }
+        .card img{
+            width: 570px;
+        }
+        .card-title{
+            margin-top: -20px;
+            margin-left: 13px;
+        }
+        .card-text{
+            margin-top: 15px;
+            margin-left: 9px;
+        }
+    
+        .card a{
+            margin-top: 10px;
+            margin-left: 13px;
+        }
+        span {
+            display: inline-block;
+            width: 250px;
+            height: 150px;
+            margin: 6px;
+            background-color: #555;
+           
+        }  
+        .cardd{
+            background-color: rgba(53, 129, 102, 0.726);
+            height: 900px;
+            width: 480px;
+            margin-top: -3px;
+            margin-bottom: 40px;
+            margin-left: -62px;
+        }
+        /* card1 */
+        .carrd{
+            width: 900px;
+            height:300px ;
+            margin-left: -5px;
+            margin-top: 80px;
+            margin-bottom: 40px;
+        }
+        .carrd img{
+            width: 320px;
+            height: 320px;  
+            margin-left: 20px;
+        }
+        .carrd h3{
+            margin-bottom: 30px;
+            margin-left: 10px;
+        }
+        .carrd p{
+            margin-bottom: 50px;
+            margin-left: 10px;
+        }
+        .carrd h4{
+            margin-bottom: 30px;
+            color: orangered;
+            margin-left: 13px;
+        }
+        /*  sec part2 */
+        .carrrd{
+            width: 900px;
+            height:300px ;
+            margin-left: -5px;
+            margin-top: 90px;
+            margin-bottom: 50px;
+        }
+        .carrrd img{
+            width: 300px;
+            height: 300px;    
+            margin-top: 700px;
+            margin-left: 20px;
+        }
+        .carrrrd h3{
+            margin-bottom: 30px;
+            margin-left:10px;
+        }
+        .carrrd p{
+            margin-bottom: 50px;
+            margin-left: 10px;
+        }
+        .carrrd h4{
+            margin-bottom: 30px;
+            color: orangered;
+            margin-left: 13px;
+        }
+        /* sec part 3 */
+        .carrrrd{
+            width: 900px;
+            height:300px ;
+            margin-left: -5px;
+            margin-top: 80px;
+            margin-bottom: 50px;
+            
+        }
+        .carrrrd img{
+            width: 300px;
+            height: 300px; 
+            margin-top: 700px;   
+            margin-left: 20px;
+        }
+        .carrrd h3{
+            margin-bottom: 20px;
+            margin-left: 10px;
+            margin-top: 30px;
+            
+        }
+        .carrrrd p{
+            margin-bottom: 50px;
+            margin-left: 10px;
+        }
+        .carrrrd h4{
+            margin-bottom: 50px;
+            color: orangered;   
+            margin-left: 13px; 
+        }
+        }
+    
